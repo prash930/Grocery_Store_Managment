@@ -103,5 +103,3 @@ Contributions are welcome!
    ```bash
    git push origin feature-name
 
-
-Do you want me to also generate a **cleaner ERD image (exported professionally)** for you to use in the README?
