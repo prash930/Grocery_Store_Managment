@@ -98,4 +98,3 @@ Contributions are welcome!
 ---
 
 
-Do you also want me to **clean your SQL file** a bit (fix datatypes, naming, add indexes) and give you the updated version so you can push both together?
