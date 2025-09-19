@@ -43,7 +43,7 @@ It includes the schema, sample queries, and analytical SQL to track **sales, pro
 
 The following diagram shows the structure and relationships of the database:
 
-![ER Diagram](Er_diagram.png)
+![ER Diagram](ER_diagram.png)
 
 ---
 
